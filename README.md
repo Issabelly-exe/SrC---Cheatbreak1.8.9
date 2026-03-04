@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,100:86A8E7&height=120&section=header&text=CheatBreaker%201.8.9&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Minecraft%20Client%20%7C%20Java%208%20%7C%20Gradle&descAlignY=70" alt="CheatBreaker Banner">
